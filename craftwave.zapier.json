@@ -1,0 +1,10 @@
+{
+  "title": "Cruise Products for Beach Vacations",
+  "description": "Explore cruise products specifically tailored for beach vacation enthusiasts. Perfect for sun seekers and relaxation lovers.",
+  "version": "1.0.0",
+  "platformVersion": "15.0.0",
+  "published_with": "craftwave",
+  "authentication": {
+    "type": "oauth2"
+  }
+}
